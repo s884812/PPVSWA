@@ -3,6 +3,7 @@
 	Public PPTP VPN Server Web Authorize system.    English Version
 							 v0.7	2013/05/05
 This program is a GPLv3 Free Software	copyleft avastms@ghostunix.org & s884812@gmail.com
+You can visit this project at https://github.com/s884812/PPVSWA
 #############################################################################
 
 This Program is for PPTP VPN user management，based on PHP+MySQL，will need WebServer to operate.
@@ -49,6 +50,7 @@ Release note
 ===============================
 v0.7
 The original author "avastmsx" abandon to maintain this project. After I asked him that let me keep maintain this great project, he said yes. So, you can visit this project at github now.(original hosted in googlecode)
+You can visit this project at https://github.com/s884812/PPVSWA
 what's now in this version:
 1.fix a css exploit. When member posts their register information, if attacker uses javascript, it will not be filter.
 2.using bootstrap.
