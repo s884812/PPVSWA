@@ -1,8 +1,8 @@
 #############################################################################
 				PPVSWA
 	Public PPTP VPN Server Web Authorize system.    English Version
-							 v0.6+	6.14.2011
-This program is a GPLv3 Free Software	copyleft avastms@ghostunix.org
+							 v0.7	2013/05/05
+This program is a GPLv3 Free Software	copyleft avastms@ghostunix.org & s884812@gmail.com
 #############################################################################
 
 This Program is for PPTP VPN user management，based on PHP+MySQL，will need WebServer to operate.
