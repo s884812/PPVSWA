@@ -47,6 +47,13 @@ Install Process    Note: Need PHP 5.2+ otherwise program will not work.
 ===============================
 Release note
 ===============================
+v0.7
+The original author "avastmsx" abandon to maintain this project. After I asked him that let me keep maintain this great project, he said yes. So, you can visit this project at github now.(original hosted in googlecode)
+what's now in this version:
+1.fix a css exploit. When member posts their register information, if attacker uses javascript, it will not be filter.
+2.using bootstrap.
+3.add change password function.
+
 v0.6+
 Dropped Jquery . Improved analyzing algorithm, preventing server overload. Several bugfix.
 
