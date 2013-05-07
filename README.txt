@@ -51,6 +51,7 @@ Release note
 v0.8
 add delete user function.
 fix some problem.
+planning to updrade UI in the future.
 
 v0.7
 The original author "avastmsx" abandon to maintain this project. After I asked him that let me keep maintain this great project, he said yes. So, you can visit this project at github now.(original hosted in googlecode)
