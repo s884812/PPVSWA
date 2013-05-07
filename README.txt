@@ -6,9 +6,9 @@ This program is a GPLv3 Free Software	copyleft avastms@ghostunix.org & s884812@g
 You can visit this project at https://github.com/s884812/PPVSWA
 #############################################################################
 
-This Program is for PPTP VPN user management，based on PHP+MySQL，will need WebServer to operate.
-'config.php'Is the config file ,you must specify all variables listed inside.
-'install.php' initialise the database.
+This Program is for PPTP VPN user management，based on PHP+MySQL，it needs a WebServer to operate.
+'config.php'Is a config file, you must specify all variables listed inside.
+'install.php' initialise the database. Once you process this file, you must remove this file from your server immediately.
 This program collect registrations from 'form.php'
 All information collected by 'form.php' will be sent to 'handler.php',which writes all information into MySQL database.
 'admin.php' Is the main page for Administrations.
@@ -51,7 +51,7 @@ Release note
 v0.7
 The original author "avastmsx" abandon to maintain this project. After I asked him that let me keep maintain this great project, he said yes. So, you can visit this project at github now.(original hosted in googlecode)
 You can visit this project at https://github.com/s884812/PPVSWA
-what's now in this version:
+what's new in this version:
 1.fix a css exploit. When member posts their register information, if attacker uses javascript, it will not be filter.
 2.using bootstrap.
 3.add change password function.
