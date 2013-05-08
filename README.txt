@@ -1,7 +1,7 @@
 #############################################################################
 				PPVSWA
 	Public PPTP VPN Server Web Authorize system.    English Version
-							 v0.8	2013/05/07
+							 v0.9	2013/05/08
 This program is a GPLv3 Free Software	copyleft avastms@ghostunix.org & s884812@gmail.com
 You can visit this project at https://github.com/s884812/PPVSWA
 #############################################################################
@@ -48,10 +48,14 @@ Install Process    Note: Need PHP 5.2+ otherwise program will not work.
 ===============================
 Release note
 ===============================
+v0.9
+add add user function.
+change a little bit of the admin.php style. by using bootstrap navs and table.
+
 v0.8
 add delete user function.
 fix some problem.
-planning to updrade UI in the future.
+planning to upgrade UI in the future.
 
 v0.7
 The original author "avastmsx" abandon to maintain this project. After I asked him that let me keep maintain this great project, he said yes. So, you can visit this project at github now.(original hosted in googlecode)
