@@ -108,7 +108,7 @@ window.open (url, 'makemail', 'height=400, width=450, top=60, left=60, toolbar=n
 					<a class="brand" href="/vpn">VPN管理系統</a>
 					    <ul class="nav">
       <li><a href="./selfservice.php">認證啓動碼</a></li>
-      <li><a href="./admin.php">管理員登入</a></li>
+      <li><a href="<?echo $_SERVER['PHP_SELF']."?sitepassword=" . $_GET['sitepassword'];?>">管理員登入</a></li>
 
     </ul>
 			</div>
